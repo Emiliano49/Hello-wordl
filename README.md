@@ -1,2 +1,2 @@
-# Hello-wordl
+# Hello-world
 ...
